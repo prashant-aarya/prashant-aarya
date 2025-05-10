@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, Spring Boot**
 
-- 💬 Ask me about **Core Java , Advance Java [JDBC,Servlet,JSP,API],MYSQL,**
+- 💬 Ask me about **Core Java , Advance Java [ JDBC, Servlet, JSP, API], MYSQL,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
